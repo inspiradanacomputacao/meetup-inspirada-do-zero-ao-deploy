@@ -4,7 +4,7 @@
 ##Meetup 1 - 11/04/2015
 
 Controle de versão com emoção - Lidiane Monteiro
-- [Apresentação](http://slides.com/lidianemonteiro/controle-de-versao)
+- [Apresentação e materiais de estudo](http://slides.com/lidianemonteiro/controle-de-versao)
 
 Desvendando estrutura de páginas web - Myrella Martins
 - [Apresentação](http://pt.slideshare.net/mymartinss/html-46959835)
