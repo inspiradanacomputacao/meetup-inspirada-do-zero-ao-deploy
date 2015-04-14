@@ -3,7 +3,7 @@
 
 ##Meetup 1 - 11/04/2015
 
-Controle de versão: Máquina do tempo e emoção
+Controle de versão com emoção
 - [Apresentação](http://slides.com/lidianemonteiro/controle-de-versao)
 
 Desvendando estrutura de páginas web
