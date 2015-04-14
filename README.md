@@ -10,3 +10,5 @@ Desvendando estrutura de páginas web
 - [Apresentação](http://pt.slideshare.net/mymartinss/html-46959835)
 - [Código](https://github.com/inspiradanacomputacao/meetup-inspirada-do-zero-ao-deploy/tree/master/meetupizd1)
 
+
+###saiba mais sobre o projeto no [site InspirAda do Zero ao Deploy](inspiradanacomputacao.github.io/do-zero-ao-deploy/)
