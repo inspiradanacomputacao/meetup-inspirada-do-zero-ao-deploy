@@ -9,6 +9,8 @@ Controle de versão com emoção - Lidiane Monteiro
 Desvendando estrutura de páginas web - Myrella Martins
 - [Apresentação](http://pt.slideshare.net/mymartinss/html-46959835)
 - [Código](https://github.com/inspiradanacomputacao/meetup-inspirada-do-zero-ao-deploy/tree/master/meetupizd1)
-
+- Material para estudo: 
+[Apostila desenvolvimento web com html5, css3 e js - Caelum](http://www.caelum.com.br/apostila-html-css-javascript/)
+[Curso de HTML5 - Gustavo Guanabara](http://www.cursoemvideo.com/course/curso-de-html5/)
 
 ####Saiba mais sobre o projeto no [site InspirAda do Zero ao Deploy](http://inspiradanacomputacao.github.io/do-zero-ao-deploy/)
