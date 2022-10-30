@@ -1,7 +1,7 @@
 
-#[Material do Meetup InspirAda do Zero ao Deploy](http://inspiradanacomputacao.github.io/do-zero-ao-deploy/)
+# [Material do Meetup InspirAda do Zero ao Deploy](http://inspiradanacomputacao.github.io/do-zero-ao-deploy/)
 
-##Meetup 1 - 11/04/2015
+## Meetup 1 - 11/04/2015
 
 Controle de versão com emoção - Lidiane Monteiro
 - [Apresentação e materiais de estudo](http://slides.com/lidianemonteiro/controle-de-versao)
@@ -13,4 +13,4 @@ Desvendando estrutura de páginas web - Myrella Martins
 [Apostila desenvolvimento web com html5, css3 e js - Caelum](http://www.caelum.com.br/apostila-html-css-javascript/) <br />
 [Curso de HTML5 - Gustavo Guanabara](http://www.cursoemvideo.com/course/curso-de-html5/)
 
-####Saiba mais sobre o projeto no [site InspirAda do Zero ao Deploy](http://inspiradanacomputacao.github.io/do-zero-ao-deploy/)
+#### Saiba mais sobre o projeto no [site InspirAda do Zero ao Deploy](http://inspiradanacomputacao.github.io/do-zero-ao-deploy/)
